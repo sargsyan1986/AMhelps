@@ -1,3 +1,3 @@
 #!/bin/bash
 
-esho "SAX SHAT LAVA"
+echo "SAX SHAT LAVA"
