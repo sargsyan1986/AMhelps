@@ -32,3 +32,5 @@ then
 fi
 
 echo "All is don with HOOK"
+
+echo "2nd time"
