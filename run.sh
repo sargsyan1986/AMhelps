@@ -31,4 +31,4 @@ then
   echo "Execution of run.sh is ok"
 fi
 
-echo "All is don from auto"
+echo "All is don with HOOK"
