@@ -30,3 +30,5 @@ if [[ $(echo $?) == 0 ]]
 then
   echo "Execution of run.sh is ok"
 fi
+
+echo "All is don from auto"
